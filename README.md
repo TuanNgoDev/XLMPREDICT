@@ -46,6 +46,9 @@ Testnet accounts used for demo and testing:
 
 ---
 
+## My USDC Wallet Address on EVM chain: 
+0xa30ef85e56c3965229b97449abf15772789d036d
+
 ## Feedback
 
 **Feedback Form (Google Sheet):** [Open Feedback Sheet](https://docs.google.com/spreadsheets/d/1Rb7RLz8RQUfYdOjPLGkgWdFoxulSnC7FWrh6hDGaCXo/edit?usp=sharing)
